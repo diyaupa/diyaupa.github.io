@@ -1,25 +1,25 @@
 /* ==========================================================================
-    DEFAULT THEME - DARK VERSION
+    DEFAULT THEME - DARK VERSION (PINK AESTHETIC)
     ========================================================================== */
 
 /* Color codes used for the theme */
-$primary-color              : #0ea1c5;
+$primary-color              : #ff69b4; /* Hot pink for buttons and main accents */
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 
-$background                 : #474747;
-$background-light           : mix(#fff, $background, 80%);
-$background-lighter         : mix(#fff, $background, 90%);
-$text                       : #FFB6C1;
-$link                       : #0ea1c5;
-$link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#fff, $link, 25%);
+$background                 : #2d2d2d; /* Deep charcoal (better contrast than standard gray) */
+$background-light           : mix(#fff, $background, 15%);
+$background-lighter         : mix(#fff, $background, 25%);
+$text                       : #f8f8f8; /* Crisp off-white for highly readable body text */
+$link                       : #ffb6c1; /* Light pink for links so they pop on dark backgrounds */
+$link-dark                  : #d81b60; 
+$link-light                 : #ff69b4; 
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
-$info-color                 : #e995c8;
+$info-color                 : #ffb6c1; /* Pastel pink for info alerts */
 $notice-color               : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
@@ -38,19 +38,18 @@ $sidebar-screen-min-width   : 1024px;
 html[data-theme="dark"] {
     --global-base-color                 : #{$primary-color};
     --global-bg-color                   : #{$background};
-    --global-footer-bg-color            : #{$background};
-    --global-border-color               : #{$light-gray};
+    --global-footer-bg-color            : #222222; /* Slightly darker charcoal for the footer */
+    --global-border-color               : #{$dark-gray};
     --global-dark-border-color          : #{$background-light};
-    --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-gray};
+    --global-code-background-color      : #1e1e1e; /* Near black for code snippets */
+    --global-code-text-color            : #ffb6c1; /* Pink tint for inline code text */
     --global-fig-caption-color          : #{$light-gray};
     --global-link-color                 : #{$link};
-    --global-link-color-hover           : #{$link-dark};
-    --global-link-color-visited         : #{$link-light};
+    --global-link-color-hover           : #{$link-light}; /* Brightens to hot pink on hover */
+    --global-link-color-visited         : mix(#fff, $link, 20%);
     --global-masthead-link-color        : #{$text};
     --global-masthead-link-color-hover  : #{$primary-color};
     --global-text-color                 : #{$text};
-    --global-text-color-light           : #f3f3f3;
+    --global-text-color-light           : #cccccc;
     --global-thead-color                : #{$background-lighter};
 }
-
