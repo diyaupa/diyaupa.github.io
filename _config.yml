@@ -34,7 +34,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  medrxiv          : https://www.medrxiv.org/search/author1%3ADiya%2BJ.%2BUpadhyaya%2B 
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
@@ -64,9 +64,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : https://www.instagram.com/diyaa.u16/
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/diya-upadhyaya-590520253/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
