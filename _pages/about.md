@@ -14,6 +14,8 @@ Hi! I'm Diya Upadhyaya, an undergraduate student in Computational/Applied Mathem
 I expect to graduate in May 2027 and will be spending this academic year applying to PhD programs for Fall 2027. For my graduate research, I want to deepen my focus on mathematical oncology by studying cancer evolution and optimal treatment regimens. My goal is to bridge mechanistic models with agent-based models (ABMs) and ML techniques to generate a better understanding of the TME and how its spatial heterogeneity drives treatment resistance.
 
 
+Outside of research, I enjoy 
+
 ---
 
 ### **📰 Recent News**
