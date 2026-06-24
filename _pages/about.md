@@ -1,12 +1,13 @@
 ---
-layout: single
 permalink: /
 title: "About me :)"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+redirect_from:
+- /about/
+- /about.html
+--- 
+
+
 
 
 Hi! I'm Diya Upadhyaya, an undergraduate student in Computational/Applied Mathematics and Biomedical Sciences minoring in Biomedical Physics at the University of South Florida. I am advised by [Renee Brady-Nicholls](https://www.moffitt.org/research-science/researchers/renee-brady/), [Ghanim Ullah](https://www.usf.edu/arts-sciences/departments/physics/research/labs/ullah/index.aspx), [Mette S. Olufsen](https://math.sciences.ncsu.edu/people/msolufse/), and [Heiko Enderling](https://www.mdanderson.org/research/departments-labs-institutes/labs/enderling-laboratory.html). Broadly speaking, my research focuses on computational medicine varying from cardiovascular to oncological systems. So far, I have focused on developing, calibrating, and validating mathematical models to patient data and generating longitudinal predictions on patient outcomes. 
