@@ -1,0 +1,26 @@
+---
+layout: single
+permalink: /research/
+title: "Research Projects"
+author_profile: true
+---
+
+My research focuses on developing, calibrating, and validating mechanistic models to understand and make predictions in various biological systems 
+
+
+### **Forecasting patient-specific responses to immunotherapy using patient-reported outcomes and mathematical modelling in Non-Small Cell Lung Cancer patients**
+CT-scans are usually used to measuring tumor volume. However, diagnostic imaging is invasive, and tumor volume as a treatment response metric is limited due to infrequent
+collection. Alternatively, Patient-Reported Outcomes (PRO) can be used as biomarkers. One of the PROs, insomnia, shows a high correlation to temporal changes in tumor volume. However, it only provides a binary outcome of stable or progressive disease, so I incorporated insomnia changes with the tumor growth inhibition model to predict when progression occurs in Lung Cancer patients. I calibrated a parametrized coupled ODE system describing exponential tumor
+growth and a treatment-induced inhibition that exponentially decays, representing treatment resistance over time, to patient data. I employed a nested optimization to estimate parameter values and generated patient-specific prediction simulations of tumor burden, predicting to 72.2% sensitivity, an improvement of 40% on predicting with insomnia alone.
+
+### **Ion dynamics in astrocytes from perturbation of PIEZO channels**
+Astrocytes are critical to maintain ion homeostasis, synaptic transmission, and respond to mechanical stress via expression of mechanosensitive ion channels. Western blot analysis confirms the expression of endogenous Piezo1, a mechanotransducer, in astrocytes. But their role in the central nervous system remains underexplored. I investigated Piezo1 channel dynamics by modeling the four-state switching between shut, sub-conductance, open, and inactivated states via a continuous-time Markov model with state transitions governed by varying pressures and voltages. I integrated the Piezo channel model into a comprehensive model of astrocyte ion dynamics employing a system of ODEs to track the temporal evolution of astrocytic variables, including membrane potentials and ions. I applied an arbitrary mechanical force in the form of pressure to stimulate the channel to investigate how Piezo1 shapes the downstream dynamics of ions such as calcium, potassium, and ATP signaling in astrocytes.
+
+### **Preserving physiological fidelity in a model of the Valsalva Maneuver**
+I worked on a model of the Valsalva Maneuver, a forced exhalation technique utilized to diagnose autonomic dysfunction. The VM activates the cardiovascular branch of the autonomic nervous system, modulating the sympathetic and parasympathetic divisions, which respectively increase and suppress heart rate. I developed a physiologically feasible respiratory sub-model to capture the oscillatory effect of breathing on heart rate using ECG-derived respiration signals. The model consists of a 7 ODE and 1 delay DE- system with 31 parameters. I used uncertainty quantification techniques to identify a subset of parameters to optimize over while fixing the others as data-driven or uniform. I applied parameter subset selection to gauge parameter identifiability and the Hilbert-Schmidt Independence Criterion to obtain a ranking of sensitive parameters and found a subset of parameters to optimize over. I used the Levenberg-Marquardt algorithm to solve the nonlinear least squares problem.
+
+### **Evaluating patient-specific response to combinatorial immunotherapy (RCI) using mathematical modeling**
+Triple-negative breast cancer is an aggressive form of breast cancer that accounts for a large proportion of breast-cancer related deaths. The current standard of care, immune checkpoint inhibitors combined with chemotherapy, improved outcomes for many patients; however, it caused substantial toxicity in a majority of patients. A significant subset of patients does not need such an intensive regimen. So, we need to identify patients more likely to respond to standard therapy. I developed a compartmental model of a system of coupled nonlinear ODEs for state variables: cancer, T-cell population, M1/M2 macrophages, and treatment regimens such as Bispecifics and Chemotherapy. We nondimensionalized parameters to improve numerical stability to render sensitivity analysis more interpretable. I then utilized a stiff adaptive solver (ode23s) in MATLAB to solve the model and generate treatment responses (cell counts of cancer, T-cell population, etc.) with different treatment regimens. 
+
+### **Modeling Tumor-Immune Dynamics and Treatment Efficacy**
+My work utilizes modified Lotka-Volterra systems to model the interactions between cancer cells and immune effector subpopulations in murine models undergoing radiation therapy. First, I had to do data preprocessing and then parameterization to fit the models to longitudinal tumor volume data. I subsequently adapted these frameworks to simulate and forecast the efficacy of nanoparticle therapies.
