@@ -66,7 +66,7 @@ author_profile: true
 
 ### **Awards and Honors**
 * 2026 Goldwater Scholar
-* Member of Sigma XI
+* Member of Sigma XI (2024-Present)
 * Presidential Scholarship at USF
 * Dean's List of Scholars (Awarded Summer 2023, Spring 2024, Spring 2025)
 * 2023 Integrated Mathematical Oncology Department Workshop Winning Team of $50,000 grant to continue research
