@@ -77,7 +77,7 @@ author_profile: true
 
 ---
 
-### **Conferences and Presentations**
+### **Conferences and Publications**
 * Upadhyaya, D., Schabath, M., Hoogland, A., Brady-Nicholls, R. (2026). Forecasting patient-specific tumor response using patient-reported outcomes in non-small cell lung cancer. [bioRxiv preprint](https://doi.org/10.64898/2026.01.29.26345069).
 * Hall, C., Larsen, T., Toumbleston, C., Upadhyaya, D., Alexanderian, A., Ghosh, S., Olufsen, M. Improving physiological fidelity in a model of the Valsalva Maneuver via uncertainty quantification techniques. *(In Preparation)*.
 * Diya Upadhyaya, Renee-Brady Nicholls, "Forecasting Patient Specific Treatment Response by Leveraging a Mathematical Model and Patient-Reported Outcomes," Society of Mathematical Biology 2026, Graz, Austria, July 2026 *(Contributed Talk)*.
