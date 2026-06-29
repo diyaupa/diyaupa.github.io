@@ -17,7 +17,7 @@ author_profile: true
   </thead>
   <tbody>
     <tr>
-      <td style="vertical-align: top"><strong>Mini Symposium</strong></td>
+      <td style="vertical-align: top"><strong>Mini Symposium: Oral</strong></td>
       <td style="vertical-align: top"><strong>Society of Mathematical Biology (SMB)</strong><br><em>"Forecasting Patient Specific Treatment Response by Leveraging a Mathematical Model and Patient-Reported Outcomes"</em></td>
       <td style="vertical-align: top">Graz, Austria</td>
       <td style="vertical-align: top">July 2026</td>
