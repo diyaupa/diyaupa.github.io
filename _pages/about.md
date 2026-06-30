@@ -20,6 +20,6 @@ I expect to graduate in May 2027 and will be spending this academic year applyin
 
 ### **📰 Recent News**
 * **Summer 2026:** Currently in Houston, TX conducting summer research at MD Anderson Cancer Center with Dr. Heiko Enderling.
-* **Summer 2026:** Invited to speak in a minisymposium at the Society for Mathematical Biology Annual Meeting in Graz, Austria
+* **Summer 2026:** Invited to speak in a [minisymposium](https://ecmtb2026.org/contributions/ms74-04) at the Society for Mathematical Biology Annual Meeting in Graz, Austria
 * **Spring 2026:** Named a [2026 Goldwater Scholar](https://www.usf.edu/ons/news/2026/two-usf-students-named-2026-goldwater-scholars.aspx), the nation’s highest honor for undergraduate STEM research.
 
