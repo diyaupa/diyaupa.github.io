@@ -7,8 +7,8 @@ author_profile: true
 
 ### **Legos**
 Legos are my favorite way to unwind. Enjoy Hogwarts and Diagon Alley! Toothless (HTTYD) coming soon!
-![Hogwarts Lego Set 1](/images/lego1.jpeg)
 ![Hogwarts Lego Set 2](/images/lego2.jpeg)
+![Hogwarts Lego Set 1](/images/lego1.jpeg)
 ![Hogwarts Lego Set 3](/images/lego3.jpeg)
 
 

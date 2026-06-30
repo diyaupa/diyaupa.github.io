@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.PNG"
+  avatar           : "/images/photo.jpeg"
   name             : "diya upadhyaya"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "mathematical biology enthusiast"
