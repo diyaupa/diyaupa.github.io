@@ -1,11 +1,7 @@
 {% include base_path %}
 
-<!-- start custom head snippets -->
-
-<!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
-<!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
 <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32"/>
@@ -14,4 +10,30 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
-<!-- end custom head snippets -->
+<style>
+  /* Change all hyperlinks to pink */
+  a {
+    color: #d63384 !important;
+  }
+  
+  /* Change hyperlink color when hovered over */
+  a:hover {
+    color: #a82766 !important; 
+  }
+
+  /* Change the top navigation bar highlight line to pink */
+  .greedy-nav .visible-links a:hover {
+    box-shadow: 0 3px 0 0 #d63384 !important;
+  }
+
+  /* Change primary buttons to pink */
+  .btn--primary {
+    background-color: #d63384 !important;
+    border-color: #d63384 !important;
+  }
+  
+  .btn--primary:hover {
+    background-color: #a82766 !important;
+    border-color: #a82766 !important;
+  }
+</style>
