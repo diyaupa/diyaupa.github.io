@@ -10,7 +10,8 @@ author_profile: true
 * B.S. in Computational and Applied Mathematics
 * B.S. in Biomedical Sciences
 * Minor: Biomedical Physics
-* Graduation: May 2027 | GPA: 3.92/4.0
+* Graduation: May 2027 
+* GPA: 3.92/4.0
 
 ---
 
