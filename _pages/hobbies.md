@@ -27,6 +27,6 @@ I am obsessed with *Prehistoric Planet* (David Attenborough is iconic) and try t
 </div>
 
 ### **Books** 
-Finally, I love books! They can span any topic from history to mathematics. Currently reading "Man's Search for Meaning" by neurologist Viktor Frankl and "Why Machines Learn: The Elegant Math Behind Modern AI" by science journalist Anil Ananthaswamy! Please reach out with any book recs!
+Finally, I love books! They can span any topic from history to mathematics. Currently reading "Man's Search for Meaning" by neurologist Viktor Frankl and "Why Machines Learn: The Elegant Math Behind Modern AI" by journalist Anil Ananthaswamy! Please reach out with any book recs!
 
 
