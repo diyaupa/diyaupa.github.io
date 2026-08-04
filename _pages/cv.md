@@ -14,12 +14,6 @@ author_profile: true
 * GPA: 3.92/4.0
 
 ---
----
-layout: single
-permalink: /cv/
-title: "Curriculum Vitae"
-author_profile: true
----
 
 <div style="text-align: center; margin-bottom: 2em;">
   <a href="/files/New_CV.pdf" target="_blank" class="btn btn--primary">📄 Download CV (PDF)</a>
